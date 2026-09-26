@@ -9,6 +9,7 @@
 
 		"uniqueName": "Religious Works",
 		"uniques": [
+			"[+50 Faith] <upon founding a city>",
 			"Gain a free [Founder] belief <upon founding a Religion>",
 			"Religion naturally spreads to cities [2] tiles away"
 		],
