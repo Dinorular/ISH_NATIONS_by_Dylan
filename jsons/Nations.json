@@ -8,8 +8,9 @@
 		"startIntroPart": "Hello, newcomer",
 
 		"uniqueName": "Religious Works",
+		"uniqueText": "Founding a Pantheon grants an additional Pantheon Belief",
 		"uniques": [
-			"Gain [100] [Faith] <upon founding a capital>",
+			"Gain [10] [Faith] <upon founding a city>",
 			"Gain a free [Pantheon] belief <upon founding a Pantheon>",
 		],
 
