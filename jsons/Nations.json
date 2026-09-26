@@ -9,8 +9,8 @@
 
 		"uniqueName": "Religious Works",
 		"uniques": [
-			"[+5 Faith] [in all cities]",
-			"[+5 Production] [in all cities]"
+			"Gain a free [Founder] belief <upon founding a Religion>",
+			"Religion naturally spreads to cities [2] tiles away"
 		],
 
 		"outerColor": [250,250,250],
