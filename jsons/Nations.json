@@ -9,9 +9,8 @@
 
 		"uniqueName": "Religious Works",
 		"uniques": [
-			"Gain [10000] [Faith] <upon founding a city>",
+			"Gain [100] [Faith] <upon founding a capital>",
 			"Gain a free [Pantheon] belief <upon founding a Pantheon>",
-			"Gain a free [Enhancer] belief <upon founding a Religion>"
 		],
 
 		"outerColor": [250,250,250],
