@@ -9,7 +9,7 @@
 
 		"uniqueName": "Religious Works",
 		"uniques": [
-			"Gain [25] [Faith] <upon founding a city>",
+			"Gain [10000] [Faith] <upon founding a city>",
 			"Gain a free [Pantheon] belief <upon founding a Pantheon>",
 			"Gain a free [Enhancer] belief <upon founding a Religion>"
 		],
