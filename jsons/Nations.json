@@ -7,6 +7,12 @@
 		
 		"startIntroPart": "Hello, newcomer",
 
+		"uniqueName": "Religious Works",
+		"uniques": [
+			"[+5 Faith] [in all cities]",
+			"[+5 Production] [in all cities]"
+		],
+
 		"outerColor": [250,250,250],
 		"innerColor": [250,0,0],
 		"cities": ["Corcexor", "Bowell", "Streford", "Cawyrth", "Stratashyre", "Bosteyd", "Kiborou"]
