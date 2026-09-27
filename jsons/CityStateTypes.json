@@ -11,7 +11,7 @@
     },
     {
         "name": "Trade City",
-        "friendBonusUnique": [
+        "friendBonusUniques": [
             "[+10]% [Gold] [in all cities]"
         ],
         "allyBonusUniques": [
