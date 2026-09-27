@@ -23,6 +23,10 @@
 		"adjective": ["Aculon"],
 
 		"uniqueName": "Supreme Leader",
+		"uniques": [
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
+			"[+2 Gold] [in all cities]"
+		],
 
 		"outerColor": [0,0,200],
 		"innerColor": [255,255,255],
