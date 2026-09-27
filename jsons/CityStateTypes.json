@@ -5,8 +5,28 @@
             "[+10]% [Culture] [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+25]% [Happiness] [in all cities]"
+            "[+15]% [Culture] [in all cities]"
         ],
         "color": [139,96,255],
+    },
+    {
+        "name": "Scholarly",
+        "friendBonusUniques": [
+            "[+10]% [Science] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+10]% [Science] [in all cities]"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Merchantile",
+        "friendBonusUnique": [
+            "[+10]% [Gold] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+10]% [Gold] [in all cities]"
+        ],
+        "color": [255,215,0]
     }
 ]
