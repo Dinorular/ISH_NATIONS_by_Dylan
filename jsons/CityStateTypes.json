@@ -10,7 +10,7 @@
         "color": [139,96,255],
     },
     {
-        "name": "Trade City",
+        "name": "Mercantile State",
         "friendBonusUniques": [
             "[+10]% [Gold] [in all cities]"
         ],
@@ -18,5 +18,15 @@
             "[+10]% [Gold] [in all cities]"
         ],
         "color": [255,215,0]
+    },
+    {
+        "name": "Theocratic State",
+        "friendBonusUniques": [
+            "[+10]% [Faith] [in all cities]"
+        ],
+        "allyBonusUniques": [
+            "[+10]% [Faith] [in all cities]"
+        ],
+        "color": [255,255,255]
     }
 ]
