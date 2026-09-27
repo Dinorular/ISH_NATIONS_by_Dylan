@@ -10,7 +10,8 @@
 		"uniqueName": "Freedom and Prosperity",
 		"uniques": [
 			"[+5 Happiness] from every [Merchant]",
-			"[+50]% [Culture] <during a Golden Age>"
+			"[+100]% [Culture] <during a Golden Age>",
+			"[+100]% [Production] <during a Golden Age>",
 		],
 
 		"outerColor": [0,0,230],
@@ -24,12 +25,11 @@
 
 		"uniqueName": "Supreme Leader",
 		"uniques": [
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns",
-			"[+2 Gold] [in all cities]"
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"
 		],
 
 		"outerColor": [250,0,0],
-		"innerColor": [255,255,205],
+		"innerColor": [255,255,150],
 		"cities": ["Aculon"],
 	}
 ]
