@@ -29,5 +29,16 @@
 		"outerColor": [230,0,0],
 		"innerColor": [250,250,0],
 		"cities": ["Westhelm"],
+	},
+	{
+		"name": "Aculon Empire",
+		"leaderName": "Elanuelo",
+		"adjective": ["Aculon"],
+
+		"uniqueName": "Supreme Leader",
+
+		"outerColor": [0,0,200],
+		"innerColor": [255,255,255],
+		"cities": ["Aculon"],
 	}
 ]
