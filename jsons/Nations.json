@@ -13,8 +13,8 @@
 			"[+50]% [Culture] <during a Golden Age>"
 		],
 
-		"outerColor": [150, 245,245],
-		"innerColor": [0,0,230],
+		"outerColor": [0,0,230],
+		"innerColor": [150,245,244],
 		"cities": ["Harbour Bloom", "Capitol", "Ezeran"]
 	},
 	{
@@ -28,8 +28,8 @@
 			"[+2 Gold] [in all cities]"
 		],
 
-		"outerColor": [0,0,200],
-		"innerColor": [255,255,255],
+		"outerColor": [250,0,0],
+		"innerColor": [255,255,205],
 		"cities": ["Aculon"],
 	}
 ]
