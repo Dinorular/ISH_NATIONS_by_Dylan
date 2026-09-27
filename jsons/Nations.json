@@ -18,19 +18,6 @@
 		"cities": ["Harbour Bloom", "Capitol", "Ezeran"]
 	},
 	{
-		"name": "Westhelm",
-		"leaderName": "Schpood",
-		"adjective": ["Westhelm"],
-		"preferredVictoryType": "Domination",
-
-
-		"uniqueName": "Grandiose Empire",
-
-		"outerColor": [230,0,0],
-		"innerColor": [250,250,0],
-		"cities": ["Westhelm"],
-	},
-	{
 		"name": "Aculon Empire",
 		"leaderName": "Elanuelo",
 		"adjective": ["Aculon"],
