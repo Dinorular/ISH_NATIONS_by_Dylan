@@ -51,5 +51,15 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,210,210],
 		"cities": ["Mattel"],
+	},
+	{
+		"name": "Oasis",
+		"adjective": ["Oasis"],
+		"startBias": ["Plains"],
+		"cityStateType": "Trade City",
+
+		"outerColor": [255,255,255],
+		"innerColor": [210,250,0],
+		"cities": ["Oasis"],
 	}
 ]
