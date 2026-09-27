@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Cass Coalition",
-		"leaderName": "CallmeCass",
+		"leaderName": "Cass",
 		"adjective": ["Coalition"],
 		"preferredVictoryType": "Cultural",
 		
@@ -12,8 +12,21 @@
 			"[+2 Happiness] from every [Merchant]"
 		],
 
-		"outerColor": [250,250,250],
-		"innerColor": [250,0,0],
+		"outerColor": [150, 245,245],
+		"innerColor": [0,0,230],
 		"cities": ["Harbour Bloom", "Capitol", "Ezeran"]
+	},
+	{
+		"name": "Westhelm",
+		"leaderName": "Schpood",
+		"adjective": ["Westhelm"],
+		"preferredVictoryType": "Domination",
+
+
+		"uniqueName": "Grandiose Empire",
+
+		"outerColor": [230,0,0],
+		"innerColor": [250,250,0],
+		"cities": ["Westhelm"],
 	}
 ]
