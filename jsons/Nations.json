@@ -5,7 +5,11 @@
 		"adjective": ["Coalition"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart": "Hello, newcomer",
+		"startIntroPart1": "Hello, newcomer",
+
+		"introduction": "Hello! I am Cass, leader of the Coalition. Who are you, stranger?",
+		"neutralHello": "Hello.",
+		"hateHello": "What..?",
 
 		"uniqueName": "Freedom and Prosperity",
 		"uniques": [
@@ -16,16 +20,22 @@
 
 		"outerColor": [0,0,230],
 		"innerColor": [150,245,244],
-		"cities": ["Harbour Bloom", "Capitol", "Ezeran"]
+		"cities": ["Harbour Bloom", "Capitol", "Ezeran", "Mattel"]
 	},
 	{
 		"name": "Aculon Empire",
 		"leaderName": "Elanuelo",
 		"adjective": ["Aculon"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
 
-		"uniqueName": "Supreme Leader",
+		"introduction": "I am Emperor Elanuelo of the Aculon Empire. Who comes before me?",
+		"neutralHello": "Greetings."
+		"hateHello": "...",
+
+		"uniqueName": "Empirical Assimilation",
 		"uniques": [
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [3] turns"
 		],
 
 		"outerColor": [250,0,0],
