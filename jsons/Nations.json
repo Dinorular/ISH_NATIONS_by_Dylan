@@ -46,7 +46,7 @@
 		"name": "Mattel",
 		"adjective": ["Mattel"],
 		"startBias": ["Coast"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Free City",
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,210,210],
