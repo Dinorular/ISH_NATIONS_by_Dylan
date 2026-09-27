@@ -56,10 +56,20 @@
 		"name": "Oasis",
 		"adjective": ["Oasis"],
 		"startBias": ["Plains"],
-		"cityStateType": "Trade City",
+		"cityStateType": "Free City",
 
 		"outerColor": [0,0,0],
 		"innerColor": [250,180,0],
 		"cities": ["Oasis"],
+	},
+	{
+		"name": "Isle of Cow",
+		"adjective": ["Cow Isle"],
+		"startBias": ["Coast"],
+		"cityStateType": "Theocratic State",
+
+		"outerColor": [250,100,100],
+		"innerColor": [250,250,250],
+		"cities": ["Isle of Cow"],
 	}
 ]
