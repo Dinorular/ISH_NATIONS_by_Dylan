@@ -9,7 +9,8 @@
 
 		"uniqueName": "Freedom and Prosperity",
 		"uniques": [
-			"[+2 Happiness] from every [Merchant]"
+			"[+5 Happiness] from every [Merchant]",
+			"[+50]% [Culture] <during a Golden Age>"
 		],
 
 		"outerColor": [150, 245,245],
