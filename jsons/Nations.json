@@ -58,8 +58,8 @@
 		"startBias": ["Plains"],
 		"cityStateType": "Trade City",
 
-		"outerColor": [255,255,255],
-		"innerColor": [210,250,0],
+		"outerColor": [0,0,0],
+		"innerColor": [250,210,0],
 		"cities": ["Oasis"],
 	}
 ]
