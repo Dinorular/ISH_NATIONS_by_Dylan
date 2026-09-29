@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Quartermaster",
+        "production": 3,
+        "food": 3,
+        "gold": 3,
+        "greatPersonPoints": {"Great General": 2},
+        "color": [200,200,200]
+    }
+]
