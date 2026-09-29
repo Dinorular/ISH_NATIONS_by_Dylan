@@ -43,16 +43,6 @@
 		"cities": ["Aculon"],
 	},
 	{
-		"name": "Mattel",
-		"adjective": ["Mattel"],
-		"startBias": ["Coast"],
-		"cityStateType": "Free City",
-
-		"outerColor": [0,0,0],
-		"innerColor": [255,210,210],
-		"cities": ["Mattel"],
-	},
-	{
 		"name": "Nordstadt",
 		"adjective": ["Nordstadt"],
 		"startBias": ["Tundra"],
