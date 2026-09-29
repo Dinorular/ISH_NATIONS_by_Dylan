@@ -57,6 +57,10 @@
 		"adjective": ["Nordstadt"],
 		"startBias": ["Tundra"],
 		"cityStateType": "Free City",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,100,230],
+		"cities": ["Nordstadt"],
 	{
 		"name": "Conquesodor",
 		"adjective": ["Conquesodor"],
