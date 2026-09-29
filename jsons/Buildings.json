@@ -15,4 +15,5 @@
 		"cost": 350,
 		"specialistSlots": {"Quartermaster": 1},
 		"requiredTech": "Construction",
+	}
 ]
