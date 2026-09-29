@@ -53,14 +53,19 @@
 		"cities": ["Mattel"],
 	},
 	{
-		"name": "Oasis",
-		"adjective": ["Oasis"],
-		"startBias": ["Plains"],
+		"name": "Nordstadt",
+		"adjective": ["Nordstadt"],
+		"startBias": ["Tundra"],
 		"cityStateType": "Free City",
+	{
+		"name": "Conquesodor",
+		"adjective": ["Conquesodor"],
+		"startBias": ["Plains"],
+		"cityStateType": "Mercantile State",
 
 		"outerColor": [0,0,0],
 		"innerColor": [250,180,0],
-		"cities": ["Oasis"],
+		"cities": ["Conquesodor"],
 	},
 	{
 		"name": "The Isle of Cow",
