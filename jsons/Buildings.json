@@ -8,5 +8,11 @@
 		"specialistSlots": {"Merchant": 2},
 		"food": 2
 		"requiredTech": "Currency"
-	}
+	},
+	{
+		"name": "Quartermaster's Quarters",
+		"uniqueTo": "Aculon Empire",
+		"cost": 350,
+		"specialistSlots": {"Quartermaster": 1},
+		"requiredTech": "Construction",
 ]
