@@ -35,7 +35,8 @@
 
 		"uniqueName": "Empirical Assimilation",
 		"uniques": [
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [3] turns"
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [3] turns",
+			"[+5 Gold] [in all cities]"
 		],
 
 		"outerColor": [250,0,0],
