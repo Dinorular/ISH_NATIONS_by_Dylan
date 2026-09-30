@@ -1,3 +1,4 @@
 {
     "nationsToRemove": ["Almaty", "Antwerp", "Belgrade", "Bratislava", "Brussels", "Bucharest", "Budapest", "Cahokia", "Cape Town", "Colombo", "Florence", "Geneva", "Genoa", "Hanoi", "Hong Kong", "Jerusalem", "Kabul", "Kathmandu", "Kuala Lumpur", "La Venta", "Lhasa", "Manila", "Milan", "Mombasa", "Monaco", "Prague", "Quebec City", "Ragusa", "Rio de Janeiro", "Sidon", "Singapore", "Sydney", "Tyre", "Valletta", "Vatican City", "Venice", "Wittenberg", "Yerevan", "Zanzibar", "Zurich"],
+    "policiesToRemove": ["Commerce Complete"],
 }
